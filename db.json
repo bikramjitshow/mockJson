@@ -1,0 +1,14 @@
+{
+  "events": [
+      {
+        "name": "Monday WFH Checkin Call",
+        "date": "20/04/2020 09:15 AM",
+        "description": ""
+      },
+      {
+        "name": "UAT Call with CWS",
+        "date": "20/04/2020 11:30 AM",
+        "description": ""
+      }
+  ]
+}
