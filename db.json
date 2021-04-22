@@ -21,5 +21,30 @@
         "time": "03:30 AM",
         "description": "Everyone should be muted and video on for this session."
       }
+  ] ,
+  
+  "courses": [
+      {
+        "id":1,
+        "title": "React JS Development",
+        "description": "Best course on React JS Development."
+      },
+      {
+        "id":2,
+        "title": "Angular Development",
+        "description": "Best course on Angular Development."
+      },
+      {
+        "id":3,
+        "title": "React Native Development",
+        "description": "Best course on React Native Development."
+      },
+      {
+        "id":4,
+        "title": "Node Js Development",
+        "description": "Best course on Node Js Development."
+      },
   ]
+  
+  
 }
